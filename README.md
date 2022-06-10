@@ -26,8 +26,8 @@ The website is use [pelican](https://docs.getpelican.com/en/latest/index.html) t
     cd LuojiaSSP.github.io
     ```
     1. Edit the the files in the `content` folder
-    2. Run `pelican -s pelicanconf.py -o ./docs` to generate the website
-    3. Run `pelican --listen -o ./docs` to start the web server locally to preview the website
+    2. Run ` pelican content -s pelicanconf.py -t ./themes/notmyidea/ -o ./docs --autoreload` to generate the website
+    3. Run `pelican --listen -o ./docs -r` to start the web server locally to preview the website
     4. Run `git add *` to add all the changes
     5. Run `git commit -m "your comment"` to commit the changes
     6. Run `git push origin master` to push the changes to Github
@@ -36,3 +36,14 @@ The website is use [pelican](https://docs.getpelican.com/en/latest/index.html) t
 
 Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)
     
+## To do list
+
+    - [ ] Add research projects
+    - [ ] add research publications
+    - [ ] add researcher profiles
+
+## references
+
+    1. [SSP](https://ultra.fandom.com/wiki/SSP_(Something_Search_People))
+    <!-- 2. [Pelican＋Github博客搭建详细教程 - Heriam - 博客园](https://www.cnblogs.com/cciejh/p/blog_building.html) -->
+    2. [Themes &mdash; Pelican 4.7.2 documentation](https://docs.getpelican.com/en/latest/themes.html)
