@@ -6,7 +6,6 @@ status: published
 nav_oder: 1
 
 
-![]({static}/images/ssplogo.png){:width="10%" }
 
 SSP is a not-profit scientific community of scholars from around the world. Our current work mainly focuses on the extraction and mining of sentiment in Chinese Weibo data.
 
