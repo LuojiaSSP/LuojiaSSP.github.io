@@ -48,7 +48,7 @@ LINKS = (('Waterlogging Dashboard', 'https://wybert.github.io/showcase/'),
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
         #   ('lastfm', 'http://lastfm.com/user/akounet'),
           ('github', 'https://github.com/LuojiaSSP'),)
-PAGE_ORDER_BY = 'basename'
+# PAGE_ORDER_BY = 'basename'
 
 # MENUITEMS = (
 #     ('Home', '/'),
@@ -58,4 +58,4 @@ PAGE_ORDER_BY = 'basename'
 # )
 PAGE_ORDER_BY = 'nav_oder'
 
-GOOGLE_ANALYTICS = '3641970787'
+GOOGLE_ANALYTICS = 'G-JR11EBFBG6'
