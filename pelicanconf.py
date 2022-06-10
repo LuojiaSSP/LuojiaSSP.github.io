@@ -3,6 +3,9 @@ SITENAME = 'Spatial Search People'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
+PAGE_PATHS = ['pages']
+
 
 TIMEZONE = 'America/New_York'
 
@@ -28,4 +31,31 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+USE_FOLDER_AS_CATEGORY = True
+# The default category to fall back on.
+DEFAULT_CATEGORY = 'Home'
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
+
+LINKS = (('Waterlogging Dashboard', 'https://wybert.github.io/showcase/'),
+         ('Xiaokang', "https://xiaokang.github.io/"))
+
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+        #   ('lastfm', 'http://lastfm.com/user/akounet'),
+          ('github', 'https://github.com/LuojiaSSP'),)
+PAGE_ORDER_BY = 'basename'
+
+# MENUITEMS = (
+#     ('Home', '/'),
+#     # ('Archives', '/archives.html'),
+#     ('Research', 'pages/research.html'),
+#     ('People', 'people.html'),
+#     ('About', 'pages/about.html'),
+# )
+
+GOOGLE_ANALYTICS = '3641970787'
