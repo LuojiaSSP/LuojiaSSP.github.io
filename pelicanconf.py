@@ -31,13 +31,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 USE_FOLDER_AS_CATEGORY = True
 # The default category to fall back on.
-DEFAULT_CATEGORY = 'Home'
+# DEFAULT_CATEGORY = 'Home'
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
@@ -52,10 +52,10 @@ PAGE_ORDER_BY = 'basename'
 
 # MENUITEMS = (
 #     ('Home', '/'),
-#     # ('Archives', '/archives.html'),
 #     ('Research', 'pages/research.html'),
 #     ('People', 'people.html'),
-#     ('About', 'pages/about.html'),
+#     ('About', 'about.html'),
 # )
+PAGE_ORDER_BY = 'nav_oder'
 
 GOOGLE_ANALYTICS = '3641970787'
