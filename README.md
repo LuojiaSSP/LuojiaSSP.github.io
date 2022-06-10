@@ -1,9 +1,8 @@
 # SSP website 
 
 
-SSP website.
 
-The website is use [pelican](https://docs.getpelican.com/en/latest/index.html) to generate. More information about pelican can be found [here](https://docs.getpelican.com/en/latest/index.html).
+The [website](https://luojiassp.github.io/) is use [pelican](https://docs.getpelican.com/en/latest/index.html) to generate. More information about pelican can be found [here](https://docs.getpelican.com/en/latest/index.html).
 
 
 ## How to Use
