@@ -1,27 +1,13 @@
 Date: 2022-06-10
-Title: Research
-Tags: research
-Slug: research
-nav_oder: 2
-<!-- status: hidden -->
-
-## [Air pollutions in China]({filename}/News/xiaokang-airpollution.md)
-
+Title: Inferring air quality2
+Tags: projects
+author: Xiaokang Fu
+Slug: air_quality2
+status: published
 
 Outdoor air pollution is a serious environmental problem in many developing countries; obtaining timely and accurate information about urban air quality is a first step toward air pollution control. Many developing countries however, do not have any monitoring stations and therefore the means to measure air quality. We address this problem by using social media to collect urban air quality information and propose a method for inferring urban air quality in Chinese cities based on China's largest social media platform, Sina Weibo combined with other meteorological data. Our method includes a data crawler to locate and acquire air-quality associated historical Weibo data, a procedure for extracting indicators from these Weibo and factors from meteorological data, a model to infer air quality index (AQI) of a city based on the extracted Weibo indicators supported by meteorological factors. We implemented the proposed method in case studies at Beijing, Shanghai, and Wuhan, China. The results show that based the Weibo indicators and meteorological factors we extracted, this method can infer the air quality conditions of a city within narrow margins of error. The method presented in this article can aid air quality assessment in cities with few or even no air quality monitoring stations.
 
-![The world cloud of Weibo text of Wuhan in January 4, 2014]({static}/News/figs/2022-06-10-23-57-49.png)
+![The world cloud of Weibo text of Wuhan in January 4, 2014]({attach}figs/2022-06-10-23-57-49.png)
 
-See more details in [Here](https://www.researchgate.net/publication/319501177_Inferring_urban_air_quality_based_on_social_media)
-
-
-
-
-## Project lead by Qiao Mengling
-
-
-
-
-
-## Sentiment analysis in Chinese Weibo
+See more details in [here](https://www.researchgate.net/publication/319501177_Inferring_urban_air_quality_based_on_social_media)
 

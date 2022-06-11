@@ -38,7 +38,7 @@ USE_FOLDER_AS_CATEGORY = True
 # The default category to fall back on.
 # DEFAULT_CATEGORY = 'Home'
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
