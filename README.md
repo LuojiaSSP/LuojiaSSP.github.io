@@ -40,7 +40,7 @@ Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)
 
 - [ ] Add research projects
 - [ ] add research publications
-- [ ] add researcher profiles
+- [x] add researcher profiles
 
 ## References
 
