@@ -6,7 +6,7 @@ nav_oder: 3
 
 
 
-## [Xiaokang Fu]({filename}/People/xiaokang.md)
+## [Xiaokang Fu]({filename}/pages/xiaokang.md)
 
 
 ![xiaokang]({static}/images/xiaokang_ava.jpeg){:width="30%" }
@@ -17,7 +17,7 @@ Contact Information: xiaokang_fu@fas.harvard.edu
 
 
 
-## [Mengling Qiao]({filename}/People/mengling.md)
+## [Mengling Qiao]({filename}/pages/mengling.md)
 
 
 ![xiaoqiao]({static}/images/qiao_ava.jpeg){:width="50%" }
@@ -28,7 +28,7 @@ Dr. MENGLING QIAO is currently a postdoc in the Department of Geography and Reso
 Contact Information:
 menglqiao@whu.edu.cn
 
-## [Dongyang Wang]({filename}/People/dongyang.md)
+## [Dongyang Wang]({filename}/pages/dongyang.md)
 
 ![dongyang]({static}/images/dongyang_ava.jpg){:width="50%" }
 
