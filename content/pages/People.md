@@ -37,3 +37,12 @@ Dongyang Wang is currently a phD candidate in the State Key Laboratory of Inform
 Contact Information:
 wangdongyang@whu.edu.cn
 
+## [Yanyan Gu]({filename}/pages/yanyan.md)
+
+![yanyan]({static}/images/yanyan.jpeg){:width="50%" }
+
+Dr. YANYAN Gu is currently a postdoc in the School of Architecture & Urban Planning, Shenzhen University. His research currently focuses on complex network analysis, urban planning, and human mobility.
+
+Contact Information: 
+yyg@whu.edu.cn
+

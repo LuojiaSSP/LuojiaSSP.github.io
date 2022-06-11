@@ -1,5 +1,6 @@
 AUTHOR = 'Xiaokang'
 SITENAME = 'Spatial Search People'
+# SITENAME = 'Spatial Search People'
 SITEURL = ''
 
 PATH = 'content'
