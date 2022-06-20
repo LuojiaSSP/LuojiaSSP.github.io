@@ -27,7 +27,7 @@ cd LuojiaSSP.github.io
  1. Edit the the files in the `content` folder. The menu of the website is located in the `pages` folder. The folder `researches` contains the research projects. The folder `publications` contains the publications. The folder `people` contains the people. 
  2. Run ` pelican content -s pelicanconf.py -t ./themes/notmyidea/ -o ./docs --autoreload` to generate the website
  3. Run `pelican --listen -o ./docs -r` to start the web server locally to preview the website
- 4. 2 and 3 can be run in one command `pelican content -s pelicanconf.py -t ./themes/notmyidea/ -o ./docs --autoreload --listen`
+ 4. 2 and 3 can be run in one command `pelican content -s pelicanconf.py -t ./themes/notmyidea/ -o ./docs --autoreload --listen`, which is a batter choice
  5. Run `git add *` to add all the changes
  6. Run `git commit -m "your comment"` to commit the changes
  7. Run `git push origin master` to push the changes to Github
