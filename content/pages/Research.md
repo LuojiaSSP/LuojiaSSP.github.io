@@ -17,9 +17,14 @@ See more details in [Here](https://www.researchgate.net/publication/319501177_In
 
 
 
-## Project lead by Qiao Mengling
 
+## [Fine-grained Subjective Division of Urban Space]({filename}/News/Qiao-subjective-division-of-urban-space.md)
 
+Fine-grained subjective partitioning of urban space using human activity flows reveals actual human activity spaces with high resolution, which has great implications for the development and validation of planning strategies. This paper presents a new method for fine-grained subjective partitioning of urban space based on the combination of network analysis and human interactions from social media. Three main procedures are involved in this method: 1) a cut-off point for hierarchical partitioning is determined by fitting the probability distribution function of human activity patterns; 2) based on this cut-off point, improved hierarchical weighted-directed spatial networks are constructed by incorporating a gravity model into conventional spatial networks to take into account the importance of the attraction of nodes in shaping urban space; and 3) the hierarchical and fine-grained partitioning results, which reveal the actual human activity spaces with high resolution at multiscale are obtained by implementing a spatial community detection algorithm in these networks. A case study, using a real-world dataset from the capital of China validates the effectiveness of the proposed method. By analyzing the results from Beijing, we concluded that the social media, a gravity model, and the hierarchical subjective communities detected from the hierarchical human activity networks are all outstanding contributors to the fine-grained subjective partitioning of urban spaces.
+
+![comparison result]({static}/News/figs/subjective-division-of-urban-space.jpg)
+
+See more details in *[here](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
 
 
 
