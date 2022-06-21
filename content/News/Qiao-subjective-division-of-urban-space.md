@@ -1,6 +1,6 @@
 Date: 2022-06-20
 Title: Fine-grained Subjective Division of Urban Space
-Tags: projects
+Tags: research
 author: Mengling Qiao
 Slug: urban_division
 status: published
