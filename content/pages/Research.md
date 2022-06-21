@@ -17,9 +17,23 @@ See more details in [Here](https://www.researchgate.net/publication/319501177_In
 
 
 
-## Project lead by Qiao Mengling
+
+## [Fine-grained Subjective Division of Urban Space]({filename}/News/Qiao-subjective-division-of-urban-space.md)
+
+Fine-grained subjective partitioning of urban space using human activity flows reveals actual human activity spaces with high resolution, which has great implications for the development and validation of planning strategies. This paper presents a new method for fine-grained subjective partitioning of urban space based on the combination of network analysis and human interactions from social media. Three main procedures are involved in this method: 1) a cut-off point for hierarchical partitioning is determined by fitting the probability distribution function of human activity patterns; 2) based on this cut-off point, improved hierarchical weighted-directed spatial networks are constructed by incorporating a gravity model into conventional spatial networks to take into account the importance of the attraction of nodes in shaping urban space; and 3) the hierarchical and fine-grained partitioning results, which reveal the actual human activity spaces with high resolution at multiscale are obtained by implementing a spatial community detection algorithm in these networks. A case study, using a real-world dataset from the capital of China validates the effectiveness of the proposed method. By analyzing the results from Beijing, we concluded that the social media, a gravity model, and the hierarchical subjective communities detected from the hierarchical human activity networks are all outstanding contributors to the fine-grained subjective partitioning of urban spaces.
+
+![comparison result]({static}/News/figs/subjective-division-of-urban-space.jpg)
+
+See more details in *[here](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
 
 
+##[Multilevel Spatial Patterns of Economic Segregation]({filename}/News/Qiao-spatial-patterns-of-economic-segregation.md)
+
+Research on the realistic and comprehensive identification of citywide spatial patterns of economic segregation is valuable for the sustainable development of cities. The consideration of human activities in segregation research inspires us to develop an alternative method to contribute to this type of research. In our method, we emphasize the combination of collective activity spaces (CASs) and spatial economic data, both of which are obtained from dynamic human activities. We first reveal the realistic use of urban spaces from human mobility patterns to generate multilevel CASs as basic analytical units. Then, we use a type of realistic economic data generated from human activities to measure the segregation level of each CAS. We realize this measurement by tailoring a segregation index, named the Term Frequency-Inverse Document Frequency-Index of Concentration at the Extremes-based (TFIDF-ICE-based) segregation index, for our economic data. Through these methods, we can uncover citywide multilevel spatial patterns of economic segregation realistically and comprehensively. Using Beijing and Wuhan as cases, we demonstrate and discuss the applicability and value of our method.
+
+![comparison result]({static}/News/figs/spatial-patterns-of-economic-segregation.jpg)
+
+See more details in *[here](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
 
 
 
