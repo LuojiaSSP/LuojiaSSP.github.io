@@ -1,3 +1,8 @@
 .vscode/
 __pycache__/
-
+.DS_Store
+content/.DS_Store
+docs/images/out.png
+docs/images/weibo_cout_1year.png
+.DS_Store
+content/.DS_Store
