@@ -51,9 +51,12 @@ Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)
     
 ## To do list
 
-- [ ] Add research projects
-- [ ] add research publications
+- [x] Add research projects
+- [x] add research publications
 - [x] add researcher profiles
+- [x] add seo
+- [x] add sitemap
+- [ ] add google analysis
 
 ## References
 
