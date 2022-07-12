@@ -1,4 +1,4 @@
-# SSP website 
+# SSP website
 
 
 
@@ -19,6 +19,19 @@ The [website](https://luojiassp.github.io/) is use [pelican](https://docs.getpel
 ```bash
 git clone https://github.com/LuojiaSSP/LuojiaSSP.github.io.git
 ```
+
+### Install requirements
+
+Please install all of them,
+
+```bash
+pip install pelican # for generate the website
+pip install pelican-sitemap # for sitemap
+pip install pelican-seo # for seo
+
+```
+
+
 ### Make changes locally, generate the website and push the changes to Github
 
 ```bash

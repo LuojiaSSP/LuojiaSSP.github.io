@@ -1,7 +1,7 @@
 AUTHOR = 'Xiaokang'
 SITENAME = 'Spatial Search People'
 # SITENAME = 'Spatial Search People'
-SITEURL = ''
+SITEURL = 'https://luojiassp.github.io'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
@@ -44,7 +44,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 LINKS = (('Waterlogging Dashboard', 'https://wybert.github.io/showcase/'),
-         ('Xiaokang', "https://xiaokang.github.io/"))
+         ('Xiaokang', "http://twitter.com/fxk123"))
 
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
         #   ('lastfm', 'http://lastfm.com/user/akounet'),
@@ -60,3 +60,25 @@ SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
 PAGE_ORDER_BY = 'nav_oder'
 
 GOOGLE_ANALYTICS = 'G-JR11EBFBG6'
+
+
+# seo
+
+EO_REPORT = True  # To enable this feature
+SEO_ENHANCER = True  # To disable this feature
+SEO_ENHANCER_OPEN_GRAPH = True # The default value for this feature
+SEO_ENHANCER_TWITTER_CARDS = True # The default value for this feature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
