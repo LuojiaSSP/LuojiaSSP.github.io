@@ -56,7 +56,8 @@ Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)
 - [x] add researcher profiles
 - [x] add seo
 - [x] add sitemap
-- [ ] add google analysis
+- [x] add google analysis
+
 
 ## References
 
