@@ -46,7 +46,7 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 LINKS = (('Waterlogging Dashboard', 'https://wybert.github.io/showcase/'),
          ('Xiaokang', "http://twitter.com/fxk123"))
 
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+SOCIAL = (('twitter', 'ttps://twitter.com/luojia_ssp'),
         #   ('lastfm', 'http://lastfm.com/user/akounet'),
           ('github', 'https://github.com/LuojiaSSP'),)
 # PAGE_ORDER_BY = 'basename'
