@@ -1,5 +1,5 @@
 Date: 2022-06-10
-Title: Yanyan Gu
+Title: Mingxuan Dou
 Tags: people
 Slug: mingxuan
 status: hidden
