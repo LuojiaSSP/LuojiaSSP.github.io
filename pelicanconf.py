@@ -2,6 +2,8 @@ AUTHOR = 'Xiaokang'
 SITENAME = 'Spatial Search People'
 # SITENAME = 'Spatial Search People'
 SITEURL = 'https://luojiassp.github.io'
+# SITEURL = '/'
+
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
