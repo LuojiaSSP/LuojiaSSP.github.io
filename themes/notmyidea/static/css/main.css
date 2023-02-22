@@ -242,6 +242,27 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		-webkit-border-bottom-left-radius: 5px;
 	}
 
+/* add header adjusted for mobile phone by xiaokang */
+  /* default style for logo and heading */
+  @media screen and (max-width: 768px) {
+	.header-container {
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	}
+	
+	.header-container img {
+	  display: block;
+	  margin: 0 auto;
+	  width: 50%;
+	}
+	
+	.header-container h1 {
+	  display: block;
+	  text-align: center;
+	}
+  }
+  
 /*
 	Featured
 *****************/

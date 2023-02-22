@@ -20,12 +20,23 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
-                <div>
+                <!-- <div>
                    <img src="../images/ssplogo.png" alt="ssplogo" width="7%" style="vertical-align:middle;"/>
                         
                    <h1 style="display:inline-block; no-repeat left center;padding-left:3px; vertical-align:top;"><a href="{{ SITEURL }}/">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
 
-                 </div>
+                 </div> -->
+
+                 <div style="display: flex; align-items: center;">
+                        <img src="../images/ssplogo.png" alt="image" width="50">
+                        <h1 style="margin-left: 10px;">Spatial Search People</h1>
+                </div>
+
+                      
+                 <!-- <div>
+                        <img id="logo" src="../images/ssplogo.png" alt="ssplogo" width="7%" style="vertical-align:middle;"/>
+                        <h1 id="logo-heading"><a href="{{ SITEURL }}/">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                </div> -->
 
                 <nav><ul>
                 {% for title, link in MENUITEMS %}

@@ -8,3 +8,7 @@ docs/images/weibo_cout_1year.png
 content/.DS_Store
 docs/images/WechatIMG361.jpeg
 .DS_Store
+.vscode/*
+.vscode/configurationCache.log
+.vscode/targets.log
+.vscode/targets.log

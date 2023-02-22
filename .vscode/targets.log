@@ -6,11 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
-make: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Tue Jun 21 11:38:05 2022
+# Make data base, printed on Wed Aug 17 13:51:02 2022
 
 # Variables
 
@@ -18,30 +15,14 @@ make: *** No rule to make target `all'.  Stop.
 <D = $(patsubst %/,%,$(dir $<))
 # automatic
 ?F = $(notdir $?)
+# makefile (from `Makefile', line 24)
+SERVER = "0.0.0.0"
 # environment
-_NB_INDICATOR_TODO = ✔️  
-# environment
-_TPUT_COLOR_SECONDARY = [90m
-# environment
-NB_SERVER_PORT = 6789
-# environment
-ELECTRON_NO_ATTACH_CONSOLE = 1
-# environment
-_NB_CACHE_PATH = /Users/kang/.nb/.cache
-# environment
-NB_GUI_BROWSER = 
-# environment
-NB_LIMIT = 15
-# environment
-NB_ENCRYPTION_TOOL = openssl
-# environment
-VSCODE_LOG_NATIVE = false
+LC_CTYPE = en_US.UTF-8
 # makefile (from `Makefile', line 19)
 RELATIVE = 0
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
-# makefile (from `Makefile', line 24)
-SERVER = "0.0.0.0"
 # environment
 rvm_path = /Users/kang/.rvm
 # automatic
@@ -58,44 +39,20 @@ VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupp
 PY = 
 # environment
 _ = /usr/bin/make
-# environment
-_NB_INDICATOR_IMAGE = 🌄 
 # makefile (from `Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # makefile (from `Makefile', line 14)
 DEBUG = 0
 # environment
-NB_DIR = /Users/kang/.nb
-# environment
-VSCODE_VERBOSE_LOGGING = true
-# environment
 __CFBundleIdentifier = com.microsoft.VSCode
 # environment
-NB_INDICATOR_TODO_DONE = ✅
+VSCODE_CWD = /
 # environment
-_LOCAL_NOTEBOOK_PATH = 
-# environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/f0/xl6nrz1n02bd52xdnrwb70w80000gn/T/vscode-ipc-dac845d6-b7df-4d68-b770-57d4aa476a05.sock
-# environment
-VSCODE_CWD = /Users/kang/.nb/home
-# environment
-PATH = /bin:/Users/kang/mambaforge/bin:/Users/kang/mambaforge/condabin:/opt/homebrew/opt/node@16/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/VMware Fusion.app/Contents/Public:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Library/TeX/texbin:/Users/kang/.rvm/bin
-# environment
-NB_COLOR_PRIMARY = 69
-# environment
-TERM_PROGRAM_VERSION = 3.4.15
-# environment
-_TPUT_SETAF_8 = [90m
+PATH = /bin:/opt/homebrew/Caskroom/mambaforge/base/bin:/opt/homebrew/Caskroom/mambaforge/base/condabin:/opt/homebrew/opt/node@16/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/VMware Fusion.app/Contents/Public:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Library/TeX/texbin:/Users/kang/.rvm/bin
+# makefile (from `Makefile', line 3)
+PELICANOPTS = 
 # makefile (from `Makefile', line 2)
 PELICAN = pelican
-# environment
-NB_SYNTAX_THEME = base16
-# environment
-_NB_INDICATOR_VIDEO = 📹 
-# environment
-VSCODE_LOG_STACK = false
-# environment
-_TPUT_COLOR_PRIMARY = [38;5;69m
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # makefile (from `Makefile', line 26)
@@ -105,47 +62,29 @@ PORT = 0
 # environment
 rvm_ruby_string = system
 # environment
-NB_INDICATOR_EBOOK = 📖
-# environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.G5c0eAw0zu/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.t4zSD5Zrox/Listeners
 # automatic
 %F = $(notdir $%)
 # makefile (from `Makefile', line 7)
 OUTPUTDIR = $(BASEDIR)/output
 # environment
-DISPLAY = /private/tmp/com.apple.launchd.PECfyQ3uOt/org.xquartz:0
+DISPLAY = /private/tmp/com.apple.launchd.Pp6WIWvwCB/org.xquartz:0
 # environment
-CONDA_EXE = /Users/kang/mambaforge/bin/conda
-# environment
-_GIT_ENABLED = 1
-# environment
-VSCODE_PIPE_LOGGING = true
-# environment
-NB_INDICATOR_PINNED = 📌
+CONDA_EXE = /opt/homebrew/Caskroom/mambaforge/base/bin/conda
 # environment
 rvm_bin_path = /Users/kang/.rvm/bin
 # environment
 PWD = /Users/kang/xiaokang/LuojiaSSP.github.io
 # environment
-_NB_INDICATOR_DOCUMENT = 📄 
-# environment
-NB_FOOTER = 1
-# environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
-# environment
-_NOTEBOOK_PATH = /Users/kang/.nb/home
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 HOME = /Users/kang
-# automatic
-+D = $(patsubst %/,%,$(dir $+))
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CLI = 1
-# environment
-VSCODE_CODE_CACHE_PATH = /Users/kang/Library/Application Support/Code/CachedData/30d9c6cd9483b2cc586687151bcbcd635f373630
+VSCODE_CODE_CACHE_PATH = /Users/kang/Library/Application Support/Code/CachedData/6d9b74a70ca9c7733b29f0456fd8195364076dda
 # environment
 LOGNAME = kang
 # environment
@@ -157,35 +96,21 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # environment
-NBRC_PATH = /Users/kang/.nbrc
-# environment
 GEM_PATH = 
 # environment
 CONDA_DEFAULT_ENV = base
 # environment
 XPC_FLAGS = 0x0
-# environment
-COLORTERM = truecolor
 # default
 MAKE = $(MAKE_COMMAND)
-# environment
-NB_COLOR_THEME = nb
-# environment
-LC_TERMINAL = iTerm2
-# environment
-NB_INDICATOR_IMAGE = 🌄
-# makefile (from `Makefile', line 3)
-PELICANOPTS = 
-# environment
-NB_AUTO_LIMIT = 0
+# default
+MAKECMDGOALS := all
 # makefile (from `Makefile', line 11)
 GITHUB_PAGES_BRANCH = main
 # environment
-SHLVL = 4
+SHLVL = 2
 # makefile (from `Makefile', line 6)
 INPUTDIR = $(BASEDIR)/content
-# environment
-_NB_INDICATOR_FOLDER = 📂 
 # default
 MAKE_VERSION := 3.81
 # environment
@@ -193,33 +118,23 @@ USER = kang
 # makefile
 .DEFAULT_GOAL := help
 # environment
-_TPUT_SMUL = [4m
-# default
-MAKECMDGOALS := all
-# environment
-TERM_SESSION_ID = w0t11p0:79EB5A5B-2350-4175-B6BE-C62AE97ECEC4
+MPLBACKEND = module://itermplot
 # environment
 rvm_version = 1.29.12 latest
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
-# environment
-NB_INDICATOR_FOLDER = 📂
 # makefile (from `Makefile', line 9)
 PUBLISHCONF = $(BASEDIR)/publishconf.py
 # environment
-PROJ_LIB = /Users/kang/mambaforge/share/proj
+PROJ_LIB = /opt/homebrew/Caskroom/mambaforge/base/share/proj
 # environment
 CONDA_SHLVL = 1
-# environment
-_NB_INDICATOR_AUDIO = 🔉 
 # default
 MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
 # makefile (from `Makefile', line 5)
 BASEDIR = $(CURDIR)
 # environment
 rvm_delete_flag = 0
-# environment
-TERM_PROGRAM = iTerm.app
 # default
 .VARIABLES := 
 # environment
@@ -229,7 +144,9 @@ CONFFILE = $(BASEDIR)/pelicanconf.py
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/kang/Library/Application Support/Code/1.68.1-main.sock
+VSCODE_IPC_HOOK = /Users/kang/Library/Application Support/Code/1.70.1-main.sock
+# environment
+MallocNanoZone = 0
 # environment
 PROJ_NETWORK = ON
 # makefile
@@ -239,57 +156,25 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-_NB_INDICATOR_PINNED = 📌 
-# environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.56503247.56503253.66CD0B76-33C3-493E-AAC3-9239429BBA36
-# environment
-LC_TERMINAL_VERSION = 3.4.15
-# environment
-NB_SERVER_HOST = localhost
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.67728429.67728435
+# automatic
++D = $(patsubst %/,%,$(dir $+))
 # automatic
 +F = $(notdir $+)
-# environment
-_NB_INDICATOR_TODO_DONE = ✅ 
-# environment
-ITERM_SESSION_ID = w0t11p0:79EB5A5B-2350-4175-B6BE-C62AE97ECEC4
-# environment
-NB_AUTO_SYNC = 1
-# environment
-NB_NOTEBOOK_PATH = /Users/kang/.nb/home
-# environment
-_GLOBAL_NOTEBOOK_PATH = /Users/kang/.nb/home
-# environment
-COLORFGBG = 15;0
-# environment
-_NB_INDICATOR_EBOOK = 📖 
 # environment
 __CF_USER_TEXT_ENCODING = 0x1F5:0x0:0x0
 # environment
 COMMAND_MODE = unix2003
 # default
 MAKEFILES := 
-# environment
-_NB_TEMP_DIRECTORY = /var/folders/f0/xl6nrz1n02bd52xdnrwb70w80000gn/T/tmp.UQjlQDR6
 # automatic
 <F = $(notdir $<)
 # environment
-ITERM_PROFILE = Default
-# environment
-NB_INDICATOR_VIDEO = 📹
-# environment
-_NB_INDICATOR_BOOKMARK = 🔖 
-# environment
-NB_INDICATOR_ENCRYPTED = 🔒
-# environment
-NB_INDICATOR_TODO = ✔️ 
-# environment
-EDITOR = code
+EDITOR = lvim
 # environment
 LC_ALL = C
 # environment
-_README_URL = https://github.com/xwmx/nb
-# environment
-CONDA_PYTHON_EXE = /Users/kang/mambaforge/bin/python
+CONDA_PYTHON_EXE = /opt/homebrew/Caskroom/mambaforge/base/bin/python
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -297,41 +182,21 @@ rvm_prefix = /Users/kang
 # default
 SUFFIXES := 
 # environment
-NB_INDICATOR_BOOKMARK = 🔖
-# environment
 _CE_M = 
-# environment
-_TPUT_SGR0 = (B[m
-# environment
-NB_COLOR_SECONDARY = 8
 # default
 .INCLUDE_DIRS = /usr/local/include
 # environment
-NB_HEADER = 2
-# environment
 MAKELEVEL := 0
 # environment
-_COLOR_ENABLED = 1
+CONDA_PREFIX = /opt/homebrew/Caskroom/mambaforge/base
 # environment
-NB_INDICATOR_DOCUMENT = 📄
-# environment
-CONDA_PREFIX = /Users/kang/mambaforge
-# environment
-TERM = xterm-256color
-# environment
-VSCODE_PID = 94148
-# environment
-NB_INDICATOR_AUDIO = 🔉
-# environment
-NB_DEFAULT_EXTENSION = md
+VSCODE_PID = 96452
 # environment
 _CE_CONDA = 
 # environment
-_NB_INDICATOR_ENCRYPTED = 🔒 
-# environment
 LANG = C
 # variable set hash-table stats:
-# Load=158/1024=15%, Rehash=0, Collisions=31/191=16%
+# Load=92/1024=9%, Rehash=0, Collisions=6/125=5%
 
 # Pattern-specific Variable Values
 
@@ -339,9 +204,9 @@ LANG = C
 
 # Directories
 
-# . (device 16777234, inode 55233966): 15 files, no impossibilities.
+# . (device 16777234, inode 55233966): 17 files, no impossibilities.
 
-# 15 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -355,7 +220,6 @@ all:
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
- 
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
@@ -416,6 +280,9 @@ help:
 .DEFAULT:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
+ 
+make: *** No rule to make target `all'.  Stop.
+
 #  File has not been updated.
 
 publish:
@@ -503,6 +370,6 @@ github: publish
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Jun 21 11:38:05 2022
+# Finished Make data base on Wed Aug 17 13:51:02 2022
 
  
