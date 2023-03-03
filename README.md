@@ -28,7 +28,8 @@ Please install all of them,
 pip install pelican # for generate the website
 pip install pelican-sitemap # for sitemap
 pip install pelican-seo # for seo
-
+pip install invoke
+pip install markdown
 ```
 
 
