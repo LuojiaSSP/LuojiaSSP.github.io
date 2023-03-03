@@ -9,7 +9,7 @@ The [website](https://luojiassp.github.io/) is use [pelican](https://docs.getpel
 
 1. Clone the repository
 2. Make changes locally
-3. Setup pelican and use it generate the website
+3. Setup pelican and use it generate the website (a python virtual environment is suggested)
 4. Check the website works fine locally
 5. Push the changes to Github
 6. Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)

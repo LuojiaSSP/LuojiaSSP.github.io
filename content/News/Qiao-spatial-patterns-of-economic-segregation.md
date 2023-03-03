@@ -3,7 +3,7 @@ Title: Multilevel Spatial Patterns of Economic Segregation
 Tags: research
 author: Mengling Qiao
 Slug: economic_segregation
-status: published
+status: updated
 
 #Multilevel Spatial Patterns of Economic Segregation
 
@@ -11,4 +11,4 @@ Research on the realistic and comprehensive identification of citywide spatial p
 
 ![comparison result]({attach}figs/spatial-patterns-of-economic-segregation.jpg)
 
-See more details in *[here](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
+See more details by *[DOI](https://doi.org/10.1016/j.cities.2020.103067)* *[ResearchGate](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*

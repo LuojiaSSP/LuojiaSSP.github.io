@@ -5,15 +5,26 @@ Slug: research
 nav_oder: 2
 <!-- status: hidden -->
 
-## [Air pollutions in China]({filename}/News/xiaokang-airpollution.md)
+## Sentiment analysis in Chinese Weibo
 
 
-Outdoor air pollution is a serious environmental problem in many developing countries; obtaining timely and accurate information about urban air quality is a first step toward air pollution control. Many developing countries however, do not have any monitoring stations and therefore the means to measure air quality. We address this problem by using social media to collect urban air quality information and propose a method for inferring urban air quality in Chinese cities based on China's largest social media platform, Sina Weibo combined with other meteorological data. Our method includes a data crawler to locate and acquire air-quality associated historical Weibo data, a procedure for extracting indicators from these Weibo and factors from meteorological data, a model to infer air quality index (AQI) of a city based on the extracted Weibo indicators supported by meteorological factors. We implemented the proposed method in case studies at Beijing, Shanghai, and Wuhan, China. The results show that based the Weibo indicators and meteorological factors we extracted, this method can infer the air quality conditions of a city within narrow margins of error. The method presented in this article can aid air quality assessment in cities with few or even no air quality monitoring stations.
+## [Assessment of Community Vulnerability During the COVID-19 Pandemic]({filename}/News/Qiao-vulnerability-hk.md)
 
-![The world cloud of Weibo text of Wuhan in January 4, 2014]({static}/News/figs/2022-06-10-23-57-49.png)
+The COVID-19 pandemic continues to threaten global public health. Reliable assessment of community vulnerability is therefore essential to fighting and mitigating the pandemic. This study presents a framework that considers the roles of internal and external factors, including the components of social vulnerability, exposure, and sensitivity, to comprehensively and accurately assess community vulnerability to the pandemic.
 
-See more details in [Here](https://www.researchgate.net/publication/319501177_Inferring_urban_air_quality_based_on_social_media)
+![result]({static}/News/figs/vulnerability-hk.jpg)
 
+See more details by *[DOI](https://doi.org/10.1016/j.jag.2022.103007)* *[ResearchGate](https://www.researchgate.net/publication/363301739_Assessment_of_community_vulnerability_during_the_COVID-19_pandemic_Hong_Kong_as_a_case_study)* 
+
+
+
+## [Multilevel Spatial Patterns of Economic Segregation]({filename}/News/Qiao-spatial-patterns-of-economic-segregation.md)
+
+Research on the realistic and comprehensive identification of citywide spatial patterns of economic segregation is valuable for the sustainable development of cities. The consideration of human activities in segregation research inspires us to develop an alternative method to contribute to this type of research. In our method, we emphasize the combination of collective activity spaces (CASs) and spatial economic data, both of which are obtained from dynamic human activities. We first reveal the realistic use of urban spaces from human mobility patterns to generate multilevel CASs as basic analytical units. Then, we use a type of realistic economic data generated from human activities to measure the segregation level of each CAS. We realize this measurement by tailoring a segregation index, named the Term Frequency-Inverse Document Frequency-Index of Concentration at the Extremes-based (TFIDF-ICE-based) segregation index, for our economic data. Through these methods, we can uncover citywide multilevel spatial patterns of economic segregation realistically and comprehensively. Using Beijing and Wuhan as cases, we demonstrate and discuss the applicability and value of our method.
+
+![comparison result]({static}/News/figs/spatial-patterns-of-economic-segregation.jpg)
+
+See more details by *[DOI](https://doi.org/10.1016/j.cities.2020.103067)* *[ResearchGate](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
 
 
 
@@ -24,25 +35,16 @@ Fine-grained subjective partitioning of urban space using human activity flows r
 
 ![comparison result]({static}/News/figs/subjective-division-of-urban-space.jpg)
 
-See more details in *[here](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
+See more details by *[DOI](https://doi.org/10.1109/ACCESS.2019.2911664)* *[ResearchGate](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
 
 
-##[Multilevel Spatial Patterns of Economic Segregation]({filename}/News/Qiao-spatial-patterns-of-economic-segregation.md)
-
-Research on the realistic and comprehensive identification of citywide spatial patterns of economic segregation is valuable for the sustainable development of cities. The consideration of human activities in segregation research inspires us to develop an alternative method to contribute to this type of research. In our method, we emphasize the combination of collective activity spaces (CASs) and spatial economic data, both of which are obtained from dynamic human activities. We first reveal the realistic use of urban spaces from human mobility patterns to generate multilevel CASs as basic analytical units. Then, we use a type of realistic economic data generated from human activities to measure the segregation level of each CAS. We realize this measurement by tailoring a segregation index, named the Term Frequency-Inverse Document Frequency-Index of Concentration at the Extremes-based (TFIDF-ICE-based) segregation index, for our economic data. Through these methods, we can uncover citywide multilevel spatial patterns of economic segregation realistically and comprehensively. Using Beijing and Wuhan as cases, we demonstrate and discuss the applicability and value of our method.
-
-![comparison result]({static}/News/figs/spatial-patterns-of-economic-segregation.jpg)
-
-See more details in *[here](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
-
-##[Assessment of Community Vulnerability During the COVID-19 Pandemic]({filename}/News/Qiao-vulnerability-hk.md)
-
-The COVID-19 pandemic continues to threaten global public health. Reliable assessment of community vulnerability is therefore essential to fighting and mitigating the pandemic. This study presents a framework that considers the roles of internal and external factors, including the components of social vulnerability, exposure, and sensitivity, to comprehensively and accurately assess community vulnerability to the pandemic.
-
-![result]({static}/News/figs/vulnerability-hk.jpg)
-
-See more details by *[DOI](https://doi.org/10.1016/j.jag.2022.103007)* *[ResearchGate](https://www.researchgate.net/publication/363301739_Assessment_of_community_vulnerability_during_the_COVID-19_pandemic_Hong_Kong_as_a_case_study)* 
 
 
-## Sentiment analysis in Chinese Weibo
+## [Air pollutions in China]({filename}/News/xiaokang-airpollution.md)
+
+Outdoor air pollution is a serious environmental problem in many developing countries; obtaining timely and accurate information about urban air quality is a first step toward air pollution control. Many developing countries however, do not have any monitoring stations and therefore the means to measure air quality. We address this problem by using social media to collect urban air quality information and propose a method for inferring urban air quality in Chinese cities based on China's largest social media platform, Sina Weibo combined with other meteorological data. Our method includes a data crawler to locate and acquire air-quality associated historical Weibo data, a procedure for extracting indicators from these Weibo and factors from meteorological data, a model to infer air quality index (AQI) of a city based on the extracted Weibo indicators supported by meteorological factors. We implemented the proposed method in case studies at Beijing, Shanghai, and Wuhan, China. The results show that based the Weibo indicators and meteorological factors we extracted, this method can infer the air quality conditions of a city within narrow margins of error. The method presented in this article can aid air quality assessment in cities with few or even no air quality monitoring stations.
+
+![The world cloud of Weibo text of Wuhan in January 4, 2014]({static}/News/figs/2022-06-10-23-57-49.png)
+
+See more details in [Here](https://www.researchgate.net/publication/319501177_Inferring_urban_air_quality_based_on_social_media)
 
