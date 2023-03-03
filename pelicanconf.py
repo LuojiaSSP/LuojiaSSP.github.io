@@ -46,8 +46,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 LINKS = (('Waterlogging Dashboard', 'https://wybert.github.io/showcase/'),
-         ('Xiaokang Website', "https://wybert.github.io/"),
-         ("Mengling website","https://jo-mengling.netlify.app/"))
+         ('Xiaokang Website', "https://wybert.github.io/"))
 
 SOCIAL = (('twitter', 'ttps://twitter.com/luojia_ssp'),
         #   ('lastfm', 'http://lastfm.com/user/akounet'),
