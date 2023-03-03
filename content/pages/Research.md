@@ -20,7 +20,7 @@ See more details in [Here](https://www.researchgate.net/publication/319501177_In
 
 ## [Fine-grained Subjective Division of Urban Space]({filename}/News/Qiao-subjective-division-of-urban-space.md)
 
-Fine-grained subjective partitioning of urban space using human activity flows reveals actual human activity spaces with high resolution, which has great implications for the development and validation of planning strategies. This paper presents a new method for fine-grained subjective partitioning of urban space based on the combination of network analysis and human interactions from social media. Three main procedures are involved in this method: 1) a cut-off point for hierarchical partitioning is determined by fitting the probability distribution function of human activity patterns; 2) based on this cut-off point, improved hierarchical weighted-directed spatial networks are constructed by incorporating a gravity model into conventional spatial networks to take into account the importance of the attraction of nodes in shaping urban space; and 3) the hierarchical and fine-grained partitioning results, which reveal the actual human activity spaces with high resolution at multiscale are obtained by implementing a spatial community detection algorithm in these networks. A case study, using a real-world dataset from the capital of China validates the effectiveness of the proposed method. By analyzing the results from Beijing, we concluded that the social media, a gravity model, and the hierarchical subjective communities detected from the hierarchical human activity networks are all outstanding contributors to the fine-grained subjective partitioning of urban spaces.
+Fine-grained subjective partitioning of urban space using human activity flows reveals actual human activity spaces with high resolution, which has great implications for the development and validation of planning strategies. This paper presents a new method for fine-grained subjective partitioning of urban space based on the combination of network analysis and human interactions from social media. Three main procedures are involved in this method: (1) a cut-off point for hierarchical partitioning is determined by fitting the probability distribution function of human activity patterns; (2) based on this cut-off point, improved hierarchical weighted-directed spatial networks are constructed by incorporating a gravity model into conventional spatial networks to take into account the importance of the attraction of nodes in shaping urban space; and (3) the hierarchical and fine-grained partitioning results, which reveal the actual human activity spaces with high resolution at multiscale are obtained by implementing a spatial community detection algorithm in these networks. A case study, using a real-world dataset from the capital of China validates the effectiveness of the proposed method. By analyzing the results from Beijing, we concluded that the social media, a gravity model, and the hierarchical subjective communities detected from the hierarchical human activity networks are all outstanding contributors to the fine-grained subjective partitioning of urban spaces.
 
 ![comparison result]({static}/News/figs/subjective-division-of-urban-space.jpg)
 
@@ -35,6 +35,13 @@ Research on the realistic and comprehensive identification of citywide spatial p
 
 See more details in *[here](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
 
+##[Assessment of Community Vulnerability During the COVID-19 Pandemic]({filename}/News/Qiao-vulnerability-hk.md)
+
+The COVID-19 pandemic continues to threaten global public health. Reliable assessment of community vulnerability is therefore essential to fighting and mitigating the pandemic. This study presents a framework that considers the roles of internal and external factors, including the components of social vulnerability, exposure, and sensitivity, to comprehensively and accurately assess community vulnerability to the pandemic.
+
+![result]({static}/News/figs/vulnerability-hk.jpg)
+
+See more details by *[DOI](https://doi.org/10.1016/j.jag.2022.103007)* *[ResearchGate](https://www.researchgate.net/publication/363301739_Assessment_of_community_vulnerability_during_the_COVID-19_pandemic_Hong_Kong_as_a_case_study)* 
 
 
 ## Sentiment analysis in Chinese Weibo

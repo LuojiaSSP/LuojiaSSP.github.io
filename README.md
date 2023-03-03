@@ -22,7 +22,7 @@ git clone https://github.com/LuojiaSSP/LuojiaSSP.github.io.git
 
 ### Install requirements
 
-Please install all of them,
+packages in requirements.txt, expecially those as follow
 
 ```bash
 pip install pelican # for generate the website
