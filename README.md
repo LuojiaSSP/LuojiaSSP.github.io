@@ -45,6 +45,17 @@ cd LuojiaSSP.github.io
  6. Run `git commit -m "your comment"` to commit the changes
  7. Run `git push origin master` to push the changes to Github
 
+if you want to add sharing button to your past add the following code to your posts,
+
+```html
+<!-- Add following div tag where you want show soopr share buttons -->
+<div class='soopr-btn'></div>
+<!-- Just before body tag add this line -->
+<script async defer data-soopr-token='pt_f8843b680c3f1f259cbdc907a190d4f6' src='https://sdk.soopr.co/soopr.js'></script>
+```
+
+❗️if you want to create your website using my template please use your own [soopr account](https://www.soopr.co/) to generate the code above. Or use any social media sharing services such as AddThis, ShareThis, or AddToAny. Choose one that you prefer and create an account on their website.
+
 ### Visit the website
 
 Visit the website at [LuojiaSSP.github.io](luojiassp.github.io)
