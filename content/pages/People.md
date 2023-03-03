@@ -23,7 +23,7 @@ Contact Information: xiaokang_fu@fas.harvard.edu
 ![xiaoqiao]({static}/images/qiao_ava.jpeg){:width="50%" }
 
 
-Dr. MENGLING QIAO is currently a postdoc in the Department of Geography and Resource Management, The Chinese University of Hong Kong. Her research interests include urban geography, human mobility, GeoHealth, and socio-spatial computing. Currently, she is focusing on the study of spatiotemporal impacts of factors and community vulnerability on COVID-19 and the air quality for smart cities.
+Dr. MENGLING QIAO is currently a postdoc in the Department of Earth and Environmental Engineering, Columbia University. Her research interests include Urban Geography, Human Mobility, GeoHealth, Computational Social Science, and Disaster Planning. Currently, I am focusing on the modeling the mobility patterns of human mobility in disaster events, and sensing the sentiment changes of general population in the post-pandemic era. See more in his [website](https://jo-mengling.netlify.app/).
 
 Contact Information:
 menglqiao@whu.edu.cn
