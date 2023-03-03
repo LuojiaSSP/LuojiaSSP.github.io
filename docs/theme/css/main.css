@@ -28,7 +28,6 @@ body {
 }
 
 /* Headings */
-/* h1 {font-size: 1.8em } */
 h1 {font-size: 2em }
 h2 {font-size: 1.571em}	/* 22px */
 h3 {font-size: 1.429em}	/* 20px */
@@ -178,7 +177,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 	/* Banner */
 	#banner h1 {
-		/* font-size: 3.171em; */
 		font-size: 3.571em;
 		line-height: 1.0;
 		margin-bottom: .3em;
@@ -242,27 +240,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		-webkit-border-bottom-left-radius: 5px;
 	}
 
-/* add header adjusted for mobile phone by xiaokang */
-  /* default style for logo and heading */
-  @media screen and (max-width: 768px) {
-	.header-container {
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	}
-	
-	.header-container img {
-	  display: block;
-	  margin: 0 auto;
-	  width: 50%;
-	}
-	
-	.header-container h1 {
-	  display: block;
-	  text-align: center;
-	}
-  }
-  
 /*
 	Featured
 *****************/
