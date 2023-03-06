@@ -16,4 +16,4 @@ The above image shows the weibo data desentiy from 2021-4-1 to 2022-4-31.
 
 Contact us at luojia.ssp@gmail.com to accesss the data and collaborate together.
 
-SSP is inspired by [SSP](https://ultra.fandom.com/wiki/SSP_(Something_Search_People)) in Ultra man.
+*SSP is inspired by [SSP](https://ultra.fandom.com/wiki/SSP_(Something_Search_People)) in Ultra man.*

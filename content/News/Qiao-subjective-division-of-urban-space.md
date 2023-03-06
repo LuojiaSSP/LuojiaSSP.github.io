@@ -1,6 +1,6 @@
 Date: 2022-06-20
 Title: Fine-grained Subjective Division of Urban Space
-Tags: research
+Tags: Qiao's research
 author: Mengling Qiao
 Slug: urban_division
 status: published
@@ -18,3 +18,5 @@ Fine-grained subjective partitioning of urban space using human activity flows r
 ![comparison result]({attach}figs/subjective-division-of-urban-space.jpg)
 
 See more details in by *[DOI](https://doi.org/10.1109/ACCESS.2019.2911664)* *[ResearchGate](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
+
+*Cite: Qiao, M., Wang, Y., Wu, S., Luo, A., Ruan, S., & Gu, Y. (2019). Fine-grained subjective partitioning of urban space using human interactions from social media data. IEEE Access, 7, 52085-52094. https://doi.org/10.1109/ACCESS.2019.2911664*

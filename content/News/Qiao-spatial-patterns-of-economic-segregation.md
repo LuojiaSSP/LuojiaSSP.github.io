@@ -1,6 +1,6 @@
 Date: 2022-06-21
 Title: Multilevel Spatial Patterns of Economic Segregation
-Tags: research
+Tags: Qiao's research
 author: Mengling Qiao
 Slug: economic_segregation
 status: published
@@ -17,3 +17,5 @@ Research on the realistic and comprehensive identification of citywide spatial p
 ![comparison result]({attach}figs/spatial-patterns-of-economic-segregation.jpg)
 
 See more details by *[DOI](https://doi.org/10.1016/j.cities.2020.103067)* *[ResearchGate](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
+
+*Cite: Qiao, M., Wang, Y., Wu, S., Fu, X., Gu, Y., & Dou, M. (2021). A realistic and multilevel measurement of citywide spatial patterns of economic segregation based on human activities. Cities, 110, 103067. https://doi.org/10.1016/j.cities.2020.103067*
