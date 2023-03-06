@@ -19,4 +19,4 @@ Fine-grained subjective partitioning of urban space using human activity flows r
 
 See more details in by *[DOI](https://doi.org/10.1109/ACCESS.2019.2911664)* *[ResearchGate](https://www.researchgate.net/publication/332482259_Fine-Grained_Subjective_Partitioning_of_Urban_Space_Using_Human_Interactions_From_Social_Media_Data)*
 
-<font color=Gray>*Cite: Qiao, M., Wang, Y., Wu, S., Luo, A., Ruan, S., & Gu, Y. (2019). Fine-grained subjective partitioning of urban space using human interactions from social media data. IEEE Access, 7, 52085-52094. https://doi.org/10.1109/ACCESS.2019.2911664*</font>
+*Cite: Qiao, M., Wang, Y., Wu, S., Luo, A., Ruan, S., & Gu, Y. (2019). Fine-grained subjective partitioning of urban space using human interactions from social media data. IEEE Access, 7, 52085-52094. https://doi.org/10.1109/ACCESS.2019.2911664*

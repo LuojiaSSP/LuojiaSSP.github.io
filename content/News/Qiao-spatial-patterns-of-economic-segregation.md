@@ -18,4 +18,4 @@ Research on the realistic and comprehensive identification of citywide spatial p
 
 See more details by *[DOI](https://doi.org/10.1016/j.cities.2020.103067)* *[ResearchGate](https://www.researchgate.net/publication/347952215_A_realistic_and_multilevel_measurement_of_citywide_spatial_patterns_of_economic_segregation_based_on_human_activities)*
 
-<font color=Gray>*Cite: Qiao, M., Wang, Y., Wu, S., Fu, X., Gu, Y., & Dou, M. (2021). A realistic and multilevel measurement of citywide spatial patterns of economic segregation based on human activities. Cities, 110, 103067. https://doi.org/10.1016/j.cities.2020.103067*</font>
+*Cite: Qiao, M., Wang, Y., Wu, S., Fu, X., Gu, Y., & Dou, M. (2021). A realistic and multilevel measurement of citywide spatial patterns of economic segregation based on human activities. Cities, 110, 103067. https://doi.org/10.1016/j.cities.2020.103067*
